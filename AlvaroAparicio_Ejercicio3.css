@@ -1,0 +1,91 @@
+.Cabecero{
+    color: red;
+    background-color: darkblue;
+    padding-left: 5%;
+}
+#Titulo{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.Centro{
+    color: black;
+    background-color: aquamarine;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 1%;
+}
+.Pie{
+    color: white;
+    background-color: darkblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Parrafo1{
+    margin-left: 3%;
+    margin-right: 2%;
+    padding: 1%;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:burlywood;
+    border-style: double;
+    border-width: 20px;
+    border-color: blue;
+}
+#Parrafo1:hover {
+    background-color: #FAFAFA;
+}
+#Parrafo2{
+    margin-left: 3%;
+    margin-right: 2%;
+    padding: 1%;
+    text-align: justify;
+    background-color: burlywood;
+    border-style: solid;
+    border-width: 10px;
+    border-color:blueviolet;
+}
+#Parrafo2:hover {
+    background-color: #FAFAFA;
+}
+#Parrafo3{
+    margin-left: 3%;
+    margin-right: 2%;
+    padding: 1%;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: burlywood;
+    border-style:dashed;
+    border-width: 7px;
+    border-color: orangered;
+}
+#Parrafo3:hover {
+    background-color: #FAFAFA;
+}
+#texto2{
+    margin-left: 3%;
+    margin-right: 2%;
+    padding: 1%;
+    text-align: justify;
+    background-color: burlywood;
+}
+#texto2:hover {
+    background-color: #FAFAFA;
+}
+#Titulo1, #Titulo2{
+    margin-left: 3%;
+    margin-right: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.enlace1:link, .enlace2:link{
+    color:green;
+}
+.enlace1:visited, .enlace2:visited{
+    color: red;
+}
+.enlace1:hover, .enlace2:hover{
+    color:coral;
+}
+.enlace1:active, .enlace2:active{
+    color: blue;
+}
